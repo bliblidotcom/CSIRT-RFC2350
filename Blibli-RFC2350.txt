@@ -12,7 +12,7 @@ Tidak ada daftar distribusi untuk pemberitahuan pembaharuan dokumen
 1.3.	Lokasi dimana Dokumen ini bisa didapat
 Dokumen ini tersedia pada : 
 
-https://github.com/bliblidotcom/Blibli-RFC2350.txt
+https://github.com/bliblidotcom/CSIRT-RFC2350/blob/main/Blibli-RFC2350.txt
 https://www.blibli.com/page/category/Blibli-RFC2350
 
 1.4.	Keaslian Dokumen
